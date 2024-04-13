@@ -1,0 +1,113 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.parisbanner {
+    background-image: linear-gradient(0deg, #00000080 0%, #00000080 100%), url(paris_banner.jpeg);
+    background-size: cover;
+    background-position: center;
+   height: 300px;
+   flex-wrap: wrap;
+   text-align: center;
+}
+.cabecera {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 25px;
+    height: 20px;
+    margin-left: 286px;
+    margin-right: 280px;
+}
+.explore {
+    padding-top: 100px;
+    color: white;
+    justify-content: center;
+}
+.port {
+    color: white;
+}
+.texto2 {
+    text-align: start;
+    margin-left: 280px;
+    padding-top: 10px;
+    flex-wrap: wrap;
+}
+.parrafo {
+    margin-bottom: 3px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.titulo1 {
+    margin: 5px;
+}
+.seccion1 {
+    flex-wrap: wrap;
+    text-align: center;
+}
+.imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    border-bottom: 1px solid grey;
+}
+img {
+    margin-bottom: 50px;
+}
+.texto3 {
+    text-align: start;
+    margin-left: 280px;
+    padding-top: 10px;
+    flex-wrap: wrap;
+}
+.parrafo2 {
+    margin-bottom: 3px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.titulo2 {
+    margin: 5px;
+}
+.imagenes2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    border-bottom: 1px solid grey;
+}
+.redes {
+    text-align: center;
+}
+.redes2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    height: 50px;
+}
+.redestext {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+}
+.p1 {
+    border-right: solid black 1px;
+    height: 20px;
+    margin-right: 8px;
+    padding-right: 8px;
+}
+.copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.copy2 {
+    margin-left: 8px;
+}
